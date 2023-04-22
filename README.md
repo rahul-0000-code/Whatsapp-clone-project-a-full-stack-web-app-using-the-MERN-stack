@@ -11,6 +11,10 @@ Technologies:
 -Database: MongoDB
 
 
+| Link of the netify app project |
+https://nhile-whatsapp-mern.netlify.app/
+
+
 
 <img width="960" alt="1" src="https://user-images.githubusercontent.com/85439546/233802228-0941831f-8f3e-4cf2-b5ce-112cf93c2d28.PNG">
 
